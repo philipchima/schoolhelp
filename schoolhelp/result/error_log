@@ -1,0 +1,5 @@
+[07-Feb-2020 07:37:34 UTC] PHP Fatal error:  Class 'Allsettings' not found in /home/elevadoschools/public_html/schoolhelp/result/includes/header.php on line 5
+[07-Feb-2020 07:39:39 UTC] PHP Fatal error:  Class 'Allsettings' not found in /home/elevadoschools/public_html/schoolhelp/result/includes/header.php on line 5
+[07-Feb-2020 07:39:49 UTC] PHP Fatal error:  Call to undefined method classResult::alldash() in /home/elevadoschools/public_html/schoolhelp/result/includes/header.php on line 70
+[07-Feb-2020 07:41:09 UTC] PHP Fatal error:  Call to undefined method classResult::alldash() in /home/elevadoschools/public_html/schoolhelp/result/includes/header.php on line 70
+[07-Feb-2020 07:41:36 UTC] PHP Fatal error:  Call to undefined method classResult::alldash() in /home/elevadoschools/public_html/schoolhelp/result/includes/header.php on line 70

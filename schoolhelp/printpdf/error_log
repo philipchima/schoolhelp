@@ -1,0 +1,25 @@
+[02-Apr-2019 09:09:57 UTC] PHP Notice:  Undefined variable: con in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:09:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:09:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 7
+[02-Apr-2019 09:09:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 8
+[02-Apr-2019 09:10:00 UTC] PHP Fatal error:  Call to a member function build_tree() on null in /home/school01/public_html/sms/backend/printpdf/dompdf/src/Dompdf.php on line 572
+[02-Apr-2019 09:11:01 UTC] PHP Notice:  Undefined variable: con in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:11:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:11:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 7
+[02-Apr-2019 09:11:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 8
+[02-Apr-2019 09:11:03 UTC] PHP Fatal error:  Call to a member function build_tree() on null in /home/school01/public_html/sms/backend/printpdf/dompdf/src/Dompdf.php on line 572
+[02-Apr-2019 09:12:17 UTC] PHP Notice:  Undefined variable: con in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:12:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:12:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 7
+[02-Apr-2019 09:12:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 8
+[02-Apr-2019 09:12:20 UTC] PHP Fatal error:  Call to a member function build_tree() on null in /home/school01/public_html/sms/backend/printpdf/dompdf/src/Dompdf.php on line 572
+[02-Apr-2019 09:22:54 UTC] PHP Notice:  Undefined variable: con in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:22:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 09:22:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 7
+[02-Apr-2019 09:22:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 8
+[02-Apr-2019 09:22:58 UTC] PHP Fatal error:  Call to a member function build_tree() on null in /home/school01/public_html/sms/backend/printpdf/dompdf/src/Dompdf.php on line 572
+[02-Apr-2019 11:11:02 UTC] PHP Notice:  Undefined variable: con in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 11:11:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/school01/public_html/sms/backend/includes/session.php on line 6
+[02-Apr-2019 11:11:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 7
+[02-Apr-2019 11:11:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/school01/public_html/sms/backend/includes/session.php on line 8
+[02-Apr-2019 11:11:18 UTC] PHP Fatal error:  Call to a member function build_tree() on null in /home/school01/public_html/sms/backend/printpdf/dompdf/src/Dompdf.php on line 572

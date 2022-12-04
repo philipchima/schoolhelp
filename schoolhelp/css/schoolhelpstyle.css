@@ -1,0 +1,105 @@
+/* This is originally written by swiftotech */
+#caption {
+    -webkit-animation: myfirst 5s; /* Chrome, Safari, Opera */
+    animation: myfirst 5s;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    from {color: red;}
+    to {color: white;}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+      from {color: red;}
+    to {color: white;}
+}
+
+/*footer content */
+#footer {
+            position:fixed;
+            bottom:0;
+            width:100%;
+            right:15px;
+            background-color: transparent;
+   }
+
+/*export button*/
+.dt-buttons {
+	float:right;
+	margin:2px;
+}
+
+.buttons-excel {
+	background: #063;
+	color:white;
+}
+.buttons-copy {
+	background: #063;
+	color:white;
+}
+.buttons-print {
+	background: #063;
+	color:white;
+}
+.buttons-csv {
+	background: #063;
+	color:white;
+}
+#datatable-buttons_next{
+	color:white;
+}
+
+/*processing gif*/
+#waitprocessing{
+	position:relative;
+	top:-300px;
+	left: 40%;
+	bottom:50px;
+	z-index: 1000;
+	display:none;
+}
+
+#msg{
+	color:red;
+	text-align:center;
+	font-weight: bold;
+	font-size:14px;
+}
+
+span.required{
+	color:red;
+	font-size:14px;
+}
+
+img#showimage{
+	display:none;
+}
+
+.dropdown-menu>li{
+	color:#063;
+	border-bottom:1px solid green ;
+}
+
+.dropdown-menu>li>span{
+	color: #d2dc2a;
+	border-bottom:1px solid green ;
+	font-weight: bold;
+}
+
+#panel_toolbox>li>i{
+	color: #d2dc2a;
+}
+
+
+
+img#userimage{
+	width:200px;
+	display:none;
+}
+
+.schoolhelp{
+	color:#063;
+}
+.vertical{writing-mode: vertical-lr;-ms-writing-mode: tb-rl; transform: rotate(180deg); letter-spacing:1px;  padding:3px;  text-align:center; }

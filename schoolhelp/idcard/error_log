@@ -1,0 +1,14 @@
+[07-Feb-2020 07:15:15 UTC] PHP Warning:  include_once(../phpclass/SHDashOOP.php): failed to open stream: No such file or directory in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:15:15 UTC] PHP Warning:  include_once(): Failed opening '../phpclass/SHDashOOP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:15:15 UTC] PHP Fatal error:  Class 'ClassDash' not found in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 6
+[07-Feb-2020 07:15:53 UTC] PHP Warning:  include_once(../phpclass/SHDashOOP.php): failed to open stream: No such file or directory in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:15:53 UTC] PHP Warning:  include_once(): Failed opening '../phpclass/SHDashOOP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:15:53 UTC] PHP Fatal error:  Class 'ClassDash' not found in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 6
+[07-Feb-2020 07:19:25 UTC] PHP Warning:  include_once(../phpclass/SHDashOOP.php): failed to open stream: No such file or directory in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:19:25 UTC] PHP Warning:  include_once(): Failed opening '../phpclass/SHDashOOP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 4
+[07-Feb-2020 07:19:25 UTC] PHP Fatal error:  Class 'ClassDash' not found in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 6
+[07-Feb-2020 07:20:44 UTC] PHP Fatal error:  Class 'ClassDash' not found in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 6
+[07-Feb-2020 07:21:17 UTC] PHP Fatal error:  Class 'AllIdcard' not found in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 6
+[07-Feb-2020 07:22:23 UTC] PHP Fatal error:  Call to undefined method classIdcard::alldashedit() in /home/elevadoschools/public_html/schoolhelp/idcard/index.php on line 11
+[07-Feb-2020 07:23:31 UTC] PHP Fatal error:  Class 'AllIdcard' not found in /home/elevadoschools/public_html/schoolhelp/idcard/includes/header.php on line 5
+[07-Feb-2020 07:25:38 UTC] PHP Fatal error:  Call to undefined method classIdcard::alldash() in /home/elevadoschools/public_html/schoolhelp/idcard/includes/header.php on line 70
